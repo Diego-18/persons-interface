@@ -1,9 +1,10 @@
-# Persons-API
+# Persons-Interface
 Interface for the use of the Persons REST API.
 
 ## Install
 
-1 - Have persons API Rest running.
+1 - Have it running the API found in the following repository:
+![API PERSONS](https://github.com/Diego-18/api-rest-persons)
 
 2 - The repository is downloaded.
 
