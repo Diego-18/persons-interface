@@ -4,7 +4,7 @@ Interface for the use of the Persons REST API.
 ## Install
 
 1 - Have it running the API found in the following repository:
-![API PERSONS](https://github.com/Diego-18/api-rest-persons)
+[API PERSONS](https://github.com/Diego-18/api-rest-persons)
 
 2 - The repository is downloaded.
 
